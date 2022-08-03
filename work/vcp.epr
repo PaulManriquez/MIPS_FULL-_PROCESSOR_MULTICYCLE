@@ -1,0 +1,15 @@
+"../AND_gate.sv"	1
+"../Register_With_Enable.sv"	1
+"../Register.sv"	1
+"../design.sv"	1
+"../testbench.sv"	1
+"../PC.sv"	1
+"../Or_Gate.sv"	1
+"../InstMem.sv"	1
+"../SignExt.sv"	1
+"../Control.sv"	1
+"../RegFile.sv"	1
+"../ALU.sv"	1
+"../DataMem.sv"	1
+"../Mux_2to1.sv"	1
+"../Mux_3to1.sv"	1

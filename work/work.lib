@@ -1,0 +1,141 @@
+timestamp=1659497170239
+
+[~A]
+LastVerilogToplevel=TOP_tb
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*4192*9887
+
+[~MFT]
+0=18|0work.mgf|9887|0
+1=16|1work.mgf|29714|0
+3=32|3work.mgf|30772|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c92160e77d5815b928c78c2ded7061c39381b
+
+[ALU]
+A/ALU=22|../ALU.sv|2|1*18716
+BinL64/ALU=3*23126
+R=../ALU.sv|2
+SLP=3*24184
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|b3eb40c25b2a3c0379c7730185183eeccdd18bbdc4e1f526b818ae50d07ed6a4
+
+[AND_gate]
+A/AND_gate=22|../AND_gate.sv|1|1*20230
+BinL64/AND_gate=3*24697
+R=../AND_gate.sv|1
+SLP=3*24994
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|6e27a0669fdc51a5891e94f957648251f20f1095f39cdefe2dcaf90d3d715e47765518e49da8bd4d94e79ada8e1ce54b
+
+[Control]
+A/Control=22|../Control.sv|1|1*374
+BinL64/Control=3*174
+R=../Control.sv|1
+SLP=3*7680
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|6797945b511c8434c38a5454b770999c26527262ddaa47cb266f3a3c4d9b973a8b61dedf8dd16d8a10820d84edbe2c61
+
+[DataMem]
+A/DataMem=22|../DataMem.sv|1|1*7799
+BinL64/DataMem=3*12153
+R=../DataMem.sv|1
+SLP=3*13122
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|43653f91a1a6ea549ca99ca5d1408a1226527262ddaa47cb266f3a3c4d9b973a9a9a5f6ff1b2ca52628287ac885cd65a
+
+[InstMem]
+A/InstMem=22|../InstMem.sv|1|1*6222
+BinL64/InstMem=3*10850
+R=../InstMem.sv|1
+SLP=3*11845
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|cfb4fc02f50910b8ed36f12d32cefa3626527262ddaa47cb266f3a3c4d9b973a9a9a5f6ff1b2ca52628287ac885cd65a
+
+[Mux_2to1]
+A/Mux_2to1=22|../Mux_2to1.sv|1|1*13053
+BinL64/Mux_2to1=3*15933
+R=../Mux_2to1.sv|1
+SLP=3*17853
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|294d93e32c2354416e2d82665d72829c09e8eee6e140e306bd51c51616c648c0765518e49da8bd4d94e79ada8e1ce54b
+
+[Mux_3to1]
+A/Mux_3to1=22|../Mux_3to1.sv|1|1*17337
+BinL64/Mux_3to1=3*20349
+R=../Mux_3to1.sv|1
+SLP=3*22858
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|1b707c0d9a0b0d39c74a99b81c8805c287ceb13c26359bde58387bdc1e1e3744765518e49da8bd4d94e79ada8e1ce54b
+
+[Or_Gate]
+A/Or_Gate=22|../Or_Gate.sv|1|1*21086
+BinL64/Or_Gate=3*25144
+R=../Or_Gate.sv|1
+SLP=3*25907
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|5c3f07263a87ed6bf631f45ee798c7a726527262ddaa47cb266f3a3c4d9b973a0215a374cb5445ebbf85e44d2e209987
+
+[PC]
+A/PC=22|../PC.sv|1|1*4770
+BinL64/PC=3*9830
+R=../PC.sv|1
+SLP=3*10570
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|8180830d307fd32bf17aee65de57f6921b6dd5e081b4dae37fb977f2a0654580
+
+[Processor]
+A/Processor=22|../design.sv|15|1*22239
+BinL64/Processor=3*26082
+R=../design.sv|15
+SLP=3*26294
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|bc4a05e4f1986e87dc10e9c03cab55bc030c5f4de3ffa3c97f58c5528f1d791350805e157913fad619e63faad82faea3
+
+[RegFile]
+A/RegFile=22|../RegFile.sv|2|1*14279
+BinL64/RegFile=3*18080
+R=../RegFile.sv|2
+SLP=3*19047
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|d0e0049a7c15a9eb84595120644d7cdc26527262ddaa47cb266f3a3c4d9b973a9a9a5f6ff1b2ca52628287ac885cd65a
+
+[Register]
+A/Register=22|../Register.sv|2|1*11383
+BinL64/Register=3*14816
+R=../Register.sv|2
+SLP=3*15640
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|7363ea9b581f91c08034b355da367b5eb4470a4173a9ccfce999ce8608f2fc7b765518e49da8bd4d94e79ada8e1ce54b
+
+[Register_With_Enable]
+A/Register_With_Enable=22|../Register_With_Enable.sv|1|1*9578
+BinL64/Register_With_Enable=3*13599
+R=../Register_With_Enable.sv|1
+SLP=3*14454
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|cdf4ec07b4c2ee880971c05491d24ba59f80b4e3f04dbd05c528d89c865392fca09951e7fe34d9ee55547723a82dcecd
+
+[SignExt]
+A/SignExt=22|../SignExt.sv|1|1*16363
+BinL64/SignExt=3*19558
+R=../SignExt.sv|1
+SLP=3*20031
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|8fd9df03e91ce1a3d2e01c6aca63652826527262ddaa47cb266f3a3c4d9b973a9a9a5f6ff1b2ca52628287ac885cd65a
+
+[TOP_tb]
+A/TOP_tb=22|../testbench.sv|3|1*29714
+BinL64/TOP_tb=3*26651
+R=../testbench.sv|3
+SLP=3*30772
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|88f20ce194fcfd92c71b24251f6fb733d13d4b14eaf3a86ddd410850e6bde1f0
+
+[~U]
+$root=12|0*0|
+ALU=12|0*2921|
+AND_gate=12|0*3151|
+Control=12|0*262|
+DataMem=12|0*1200|
+InstMem=12|0*963|
+Mux_2to1=12|0*1964|
+Mux_3to1=12|0*2680|
+Or_Gate=12|0*3344|
+PC=12|0*720|
+Processor=12|0*3566|
+RegFile=12|0*2199|
+Register=12|0*1709|
+Register_With_Enable=12|0*1426|
+SignExt=12|0*2475|
+TOP_tb=12|0*3938||0x10
